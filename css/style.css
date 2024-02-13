@@ -1,0 +1,111 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333;
+  }
+  
+  header {
+    background-color: #003366;
+    color: #fff;
+  }
+  
+  header h1 {
+    margin-top: 0;
+    margin-bottom: 10px;
+  }
+  
+  header p {
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+  
+  main {
+    padding-top: 20px;
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+  }
+  
+  .nav {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .nav li {
+    padding: 5px 0;
+  }
+  
+  .nav li a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .nav li a:hover {
+    color: #003366;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 5px;
+    border: 1px solid #ddd;
+  }
+  
+  tfoot {
+    background-color: #f9f9f9;
+  }
+  
+  /* Kocaeli Üniversitesi web sitesindeki ek renkler ve stiller */
+  
+  .kocaeli-blue {
+    color: #003366;
+  }
+  
+  .kocaeli-orange {
+    color: #f99a0b;
+  }
+  
+  .kocaeli-font {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+  }
+  
+  .kocaeli-header-bg {
+    background-image: url("https://www.kocaeli.edu.tr/Content/Images/header-bg.jpg");
+    background-size: cover;
+    background-position: center center;
+  }
+  
+  /* Örnek kullanım */
+  
+  .kocaeli-header-bg {
+    height: 200px;
+  }
+  
+  h1.kocaeli-font {
+    font-size: 24px;
+    margin-top: 0;
+  }
+  
+  p.kocaeli-font {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .kocaeli-blue a {
+    color: #003366;
+    text-decoration: none;
+  }
+  
+  .kocaeli-blue a:hover {
+    color: #f99a0b;
+  }

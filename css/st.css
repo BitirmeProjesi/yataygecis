@@ -1,0 +1,18 @@
+body {
+    background-color: #ffffff;
+  }
+  
+  .card-header {
+    background-color: #006699;
+    color: #ffffff;
+  }
+  
+  .card-header img {
+    width: 100px;
+    height: 100px;
+    margin-top: 10px;
+  }
+  
+  .card-header h4 {
+    margin-top: 10px;
+  }
